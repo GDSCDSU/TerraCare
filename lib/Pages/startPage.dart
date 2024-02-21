@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:midori/pages/Routes.dart';
-
+//this is startPage
 class startPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

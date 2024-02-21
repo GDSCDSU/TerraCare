@@ -4,7 +4,7 @@ import 'package:midori/app_route_configuration.dart';
 import 'package:midori/pages/Routes.dart';
 import 'package:midori/Pages/Login.dart';
 import 'package:midori/Pages/SignUp.dart';
-
+//WelcomePage
 import 'app_route_constants.dart';
 
 class WelcomePage extends StatelessWidget {
